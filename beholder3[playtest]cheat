@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"unlimeted money"</Description>
+      <LastState Value="999999" Activated="1" RealAddress="1BE537C6CD0"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1BE537C6CD0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"unlimeted rep"</Description>
+      <LastState Value="999999" Activated="1" RealAddress="1BE537C6CD4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1BE537C6CD4</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
